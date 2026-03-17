@@ -13,23 +13,34 @@
     </header>
 
     <article>
-        <a href="opis.html">Dowiedz się więcej</a>
-    </article>
-
+            <a href="opis.html">Dowiedz się więcej</a>
+        </article>
+        
     <main>
+
         <section>
             <h2>Standardowy</h2>
+            <ul>
+            </ul>
         </section>
+
         <section>
             <h2>Premium</h2>
+            <ul>
+            </ul>
         </section>
+
         <section>
             <h2>Dziecko</h2>
+            <ul>
+            </ul>
         </section>
     </main>
 
     <footer>
-        <p><img src="obraz2.png" alt="przychodnia">Stronę przygotował: 00000000</p>
+        <p><img src="obraz2.png" alt="przychodnia"> Stronę przygotował: 00000000000</p>
     </footer>
+
+    
 </body>
 </html>
