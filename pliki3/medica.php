@@ -74,7 +74,7 @@
     </main>
 
     <footer>
-        <p><img src="obraz2.png" alt="przychodnia"> Stronę przygotował: 00000000000</p>
+        <p><img src="obraz2.png" style="width: 32px;" alt="przychodnia"> Stronę przygotował: 00000000000</p>
     </footer>
 
     
