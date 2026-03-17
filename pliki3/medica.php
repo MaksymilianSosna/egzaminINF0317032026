@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Przychodnia Medica</title>
+    <link rel="icon" href="obraz2.png">
+    <link rel="stylesheet" href="styl.css">
+</head>
+<body>
+    <header>
+        <h1>Abonamenty w przychodni Medica</h1>
+    </header>
+
+    <article>
+        <a href="opis.html">Dowiedz się więcej</a>
+    </article>
+
+    <main>
+        <section>
+            <h2>Standardowy</h2>
+        </section>
+        <section>
+            <h2>Premium</h2>
+        </section>
+        <section>
+            <h2>Dziecko</h2>
+        </section>
+    </main>
+
+    <footer>
+        <p><img src="obraz2.png" alt="przychodnia">Stronę przygotował: 00000000</p>
+    </footer>
+</body>
+</html>
