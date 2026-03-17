@@ -1,2 +1,4 @@
 Kw.1
 SELECT abonamenty.nazwa, abonamenty.cena, abonamenty.opis FROM abonamenty
+Kw.2
+SELECT ROUND(AVG(cena), 2) AS Srednio_abonament FROM abonamenty
